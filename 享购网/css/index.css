@@ -1,0 +1,214 @@
+section{
+	
+	height: 5080px;
+	width: 1200px;
+	margin: 0 auto;
+	
+}
+#lunbo{	
+	width: 1200px;
+	margin: 0 auto; 
+    height:430px;
+    overflow:hidden;
+    margin-bottom: 60px;
+}
+#lunbo img{
+	width: 1200px;
+}
+.kongge1{
+	height: 15px;
+}
+.section_pic_1{
+	
+	margin: 0 auto;
+	width: 200px;
+	height: 46px;
+}
+.hot{
+	width: 1200px;
+	height: 333px;
+	margin: 0 auto;
+	margin-top: 38px;
+	
+}
+.hot_1{
+	width: 272px;
+	height: 332px;
+	border: 1px solid #dddddd;
+	margin-right: 34px;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	font-size: 13px;
+	padding-top: 15px;
+	line-height: 30px;
+}
+
+#hot_1_pic{
+	
+	height: 230px;
+	width: 230px;
+	margin: 0 auto;
+}
+.hot_2{
+	width: 272px;
+	height: 332px;
+	border: 1px solid #dddddd;
+	float: left;
+	display: inline-block;
+	font-size: 13px;
+	padding-top: 15px;
+	line-height: 30px;
+}
+.money{
+	color: red;
+	font-size: 17px;
+	float: left;
+	font-weight: bold;
+}
+.sectionone{
+	margin-top: 92px;
+	width: 1200px;
+	height: 720px;
+	
+}
+.sectiontwo{
+	margin-top: 92px;
+	width: 1200px;
+	height: 720px;
+	
+}
+.sectionthree{
+	margin-top: 92px;
+	width: 1200px;
+	height: 720px;
+	
+}
+.sectionone_title{
+	height: 34px;
+	width: 1200px;
+	font-size: 25px;
+	color: #f4d626;
+	
+}
+.sectiontwo_title{
+	height: 34px;
+	width: 1200px;
+	font-size: 25px;
+	color: #97d054;
+	
+}
+.sectionone_titleM{
+	float: right;
+	color: black;
+	font-size: 16px;
+	margin-right: 10px;
+	margin-top: 6px;
+	font-weight: 100;
+}
+.sectiontwo_titleM{
+	float: right;
+	color: black;
+	font-size: 16px;
+	margin-right: 10px;
+	margin-top: 6px;
+	font-weight: 100;
+}
+.bgyellow{
+	height: 5px;
+	width: 1200px;
+	background-color: #f4d526;
+}
+.bggreen{
+	height: 5px;
+	width: 1200px;
+	background-color: #97d054;
+}
+.sectiononel{
+	width:240px;
+	height: 682px;
+	background-color: #f5f5f5;
+	float: left;
+	background-image: url(../image/daily-left.jpg);
+	background-repeat: no-repeat;
+}
+.sectiontwol{
+	width:240px;
+	height: 682px;
+	background-color: #f5f5f5;
+	float: left;
+	background-image: url(../image/daily-health.jpg);
+	background-repeat: no-repeat;
+}
+.sectiononer{
+	width: 960px;
+	height: 682px;
+	background-color: wheat;
+	float: right;
+}
+.sectiononel_one{
+	width: 240px;
+	height: 240px;
+	
+	font-size: 14px;
+	color: #ebc11a;
+	padding-top: 22px;
+}
+.sectiontwol_one{
+	width: 240px;
+	height: 240px;
+	
+	font-size: 14px;
+	color: #97d054;
+	padding-top: 22px;
+}
+.sectiononel_one_left{
+	height: 30px;
+	display: inline-block;
+	line-height: 30px;
+	margin-top: 18px;
+}
+.sectiononel_one_left img{
+	float: left;
+	margin-left: 22px;
+	margin-right: 12px;
+	
+}
+.sectiononel_one_right img{
+	float: left;
+	margin-left: 30px;
+	margin-right: 12px;
+}
+.sectiononel_one_right{
+	display: inline-block;
+	height: 30px;
+	line-height: 30px;
+	margin-top: 18px;
+}
+.sectiononer_sp{
+	width: 239px;
+	height: 320px;
+	background-color: white;
+	display: inline-block;
+	text-align: center;
+	font-size: 14px;
+	padding-top: 20px;
+	line-height: 30px;
+	margin-right: 0px;
+	float: left;
+	border-right: 1px solid #d2d2d2;
+	
+	border-bottom: 1px solid #d2d2d2;
+}
+.sectiononer_sp img{
+	width: 230px;
+	height: 230px;
+}
+.money2{
+	float: left;
+	color: red;
+	font-size: 16px;
+	text-indent: 1em;
+	margin-top: 10px;
+	font-weight: bold;
+}
